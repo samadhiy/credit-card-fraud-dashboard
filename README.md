@@ -10,6 +10,18 @@ This project presents an interactive Power BI dashboard for analyzing credit car
 * Analyze transaction amounts and trends
 * Explore time-based fraud behavior
 
+## 📂 Access Full Project Files
+
+The dataset and Power BI (.pbix) file are available via cloud storage due to GitHub size limitations.
+
+👉 **Google Drive Folder:**
+https://drive.google.com/drive/folders/1I7VVTcgfovn8LRTjLziOXaPA643Y6it4?usp=sharing
+
+## 📌 Contents
+
+* Power BI Dashboard File (.pbix)
+* Processed Fraud Dataset
+
 ## 📁 Dataset
 
 * Contains 284,807 transactions
@@ -25,7 +37,7 @@ This project presents an interactive Power BI dashboard for analyzing credit car
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.jpg)
 
 ## 🛠 Tools Used
 
