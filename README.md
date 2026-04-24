@@ -22,6 +22,16 @@ https://drive.google.com/drive/folders/1I7VVTcgfovn8LRTjLziOXaPA643Y6it4?usp=sha
 * Power BI Dashboard File (.pbix)
 * Processed Fraud Dataset
 
+📓 Jupyter Notebook Analysis
+
+👉 View Data Analysis Notebook(creditcard_fraud.ipnyb)
+
+This notebook includes:
+
+Data preprocessing
+Exploratory Data Analysis (EDA)
+Fraud pattern insights
+
 ## 📁 Dataset
 
 * Contains 284,807 transactions
