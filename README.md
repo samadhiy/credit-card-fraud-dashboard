@@ -24,13 +24,13 @@ https://drive.google.com/drive/folders/1I7VVTcgfovn8LRTjLziOXaPA643Y6it4?usp=sha
 
 📓 Jupyter Notebook Analysis
 
-👉 View Data Analysis Notebook(creditcard_fraud.ipnyb)
+👉[View Notebook](./creditcard_fraud.ipynb)
 
 This notebook includes:
 
-Data preprocessing
-Exploratory Data Analysis (EDA)
-Fraud pattern insights
+* Data preprocessing
+* Exploratory Data Analysis (EDA)
+* Fraud pattern insights
 
 ## 📁 Dataset
 
